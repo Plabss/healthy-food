@@ -1,0 +1,36 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.top {
+    display: flex;
+    margin-top: 5%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.orange {
+    color: orangered;
+}
+
+.btn {
+    background-image: linear-gradient(orange, red);
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 15px;
+    color: aliceblue;
+    font-weight: 700;
+}
